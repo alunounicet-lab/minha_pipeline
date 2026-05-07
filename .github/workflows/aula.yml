@@ -12,4 +12,4 @@ jobs:
 
     steps:
       - name: Exibir mensagem
-        run: echo "Hello World"
+        run: exit 1.
