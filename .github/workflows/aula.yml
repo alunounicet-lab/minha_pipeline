@@ -1,4 +1,4 @@
-name: MeuPipeline
+name: Meu Pipeline
 
 
 on: [push]
